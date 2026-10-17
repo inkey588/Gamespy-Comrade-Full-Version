@@ -245,4 +245,4 @@ This repository serves as the official landing page for GameSpy Comrade. The sof
 **Get the most recent version of GameSpy Comrade today!**
 
 ---
-**Last updated:** 2026-10-16 22:23:50 UTC
+**Last updated:** 2026-10-17 00:57:30 UTC
